@@ -52,7 +52,7 @@
 
 //1.12 obten el precio medio de los productos de cada fabricante mostrando solo el codigo de fabricante
 
-SELECT AVG (PERCIO), CODIGO FROM articulos GROUP BY CODIGO
+//SELECT FABRICANTE, AVG(PReCIO) FROM articulos GROUP BY FABRICANTE;
 
 // reto dml 3
 
